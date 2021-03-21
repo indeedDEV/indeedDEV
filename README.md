@@ -2,4 +2,4 @@
 
 🌐 I'm currently studying C++, PYTHON and HTML.  
 ☣ I hope to pursue a career in engineering.  
-⚜ [My Website](https://indeeddev.github.io/personal/home)
+⚜ [Check Out My Website](https://indeeddev.github.io/personal/home)
