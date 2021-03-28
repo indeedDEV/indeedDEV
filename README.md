@@ -3,4 +3,4 @@
 🌐 I'm currently studying C++, PYTHON and HTML.  
 ☣ I hope to pursue a career in engineering.  
 💫 You can contact me @ indeeddevel@gmail.com  
-⚜ [Check Out My Website](https://indeeddev.github.io/personal/)
+⚜ [Check Out My Website](https://indeeddev.github.io/)
